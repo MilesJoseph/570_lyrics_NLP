@@ -1,13 +1,16 @@
+<!-- #region -->
 # Synopsis
 
 This project is for an NLP assignment. 
 
-This is a group project where we are performing some unsupervised techniques on a lyrics data set attained from kaggle. 
+This is a group project where we perform some EDA and sentiment analysis. Our data was attained from kaggle and is unlabeled making a traditional machine learning project more difficult. 
 
-## EDA 
+
+## EDA and Modeling
 
 The file titled EDA encompasses some of the cleaning and exploratory analysis done on the dataset. 
 
-## Modeling
+In this file we perform sentiment analysis to determine tone for a given lyric. 
 
-The file titled modeling will (if not already) include modeling efforts for unsupervised modeling. 
+
+<!-- #endregion -->
